@@ -69,3 +69,6 @@ http://diskominfo.docker
 php artisan serve --port=8080
 http://localhost:8080
 ```
+
+## 9. Postman Collection
+diskominfo.postman_collection.json
